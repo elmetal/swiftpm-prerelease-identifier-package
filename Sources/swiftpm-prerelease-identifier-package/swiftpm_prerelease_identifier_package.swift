@@ -1,2 +1,3 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+public struct SwiftpmPrereleaseIdentifierPackage {
+    public private(set) var version = "0.1.0"
+}
