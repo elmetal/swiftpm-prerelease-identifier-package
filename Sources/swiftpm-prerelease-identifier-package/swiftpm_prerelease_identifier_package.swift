@@ -1,3 +1,3 @@
 public struct SwiftpmPrereleaseIdentifierPackage {
-    public private(set) var version = "0.1.20250826-alpha"
+    public private(set) var version = "0.1.1-deleted-branch"
 }
